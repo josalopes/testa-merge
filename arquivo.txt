@@ -1,2 +1,3 @@
+Primeira linha - alterada na branch-B (antes era assim)
 Primeira linha - contém o merge da branch-B para a branch-A e resolvendo conflitos
 Resultado final na branch-A
