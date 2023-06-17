@@ -1,1 +1,1 @@
-Primeira linha - alterada na branch-B
+Primeira linha - alterada na branch-B e mesclando na branch-A
