@@ -1,1 +1,1 @@
-Primeira linha alterada na branch-A
+Primeira linha - alterada nos dois branches
